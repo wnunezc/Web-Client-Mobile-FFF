@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "downloadUrl": "https://raw.githubusercontent.com/wnunezc/Web-Client-Mobile-FFF/master/releases/web-client-fff-v1.0.0.apk",
+  "releaseNotes": "Mandatory update channel prepared for Web Client FFF 1.0.0. Android requires user confirmation before installing the downloaded APK.",
+  "sha256": "3b64c10cd2455503dfc2c8e6292c51970f4e5f6ef911c08518d918bbe4bbd980",
+  "minAndroidApi": 24,
+  "publishedAt": "2026-10-09T16:41:10Z"
+}
