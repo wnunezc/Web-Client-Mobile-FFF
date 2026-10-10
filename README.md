@@ -6,9 +6,11 @@ This repository branch is the public distribution channel only. It contains no s
 
 ## Download
 
-Install the current APK from:
+[![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/wnunezc/Web-Client-Mobile-FFF/master/releases/web-client-fff-v1.0.0.apk)
 
-- `releases/web-client-fff-v1.0.0.apk`
+Direct file:
+
+- [`releases/web-client-fff-v1.0.0.apk`](https://raw.githubusercontent.com/wnunezc/Web-Client-Mobile-FFF/master/releases/web-client-fff-v1.0.0.apk)
 
 The app checks `version.json` every time it opens. If a newer version is available, the app blocks normal use, downloads and verifies the APK, then opens the Android installer. Android still requires user confirmation for the installation and may require allowing installs from this app as a trusted source.
 
